@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Amiri+Quran&family=Charmonman:wght@700&family=Lemonada&family=Noto+Sans+Arabic&family=Rakkas&family=Satisfy&display=swap');
+
+body {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0px;
+  background: rgb(255, 255, 255);
+  font-family: Roboto, sans-serif;
+  font-weight: bold;
+}
+
+/*this two lines of code disables text selection via mouse cursor. Im pretty sure there is a better way to do this, but I Dont know it.*/
